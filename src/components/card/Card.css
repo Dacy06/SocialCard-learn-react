@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  border-top: rgb(233, 233, 233) 1px solid;
+  border-bottom: rgb(233, 233, 233) 1px solid;
+}
+
+.module-container {
+  margin: 10px;
+  font-weight: 300;
+}

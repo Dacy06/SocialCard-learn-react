@@ -1,0 +1,33 @@
+.modal-container {
+  position: fixed;
+  z-index: 99;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.forward-container {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 2px 2px 1px rgb(150, 150, 150);
+  animation: 0.3s ease-in 0s slide-in;
+  animation-fill-mode: forwards;
+  display: flex;
+  flex-flow: column;
+  padding: 20px;
+}
+
+@keyframes slide-in {
+  0% {
+    transform: translateY(5%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+

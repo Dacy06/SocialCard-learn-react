@@ -1,0 +1,25 @@
+.common-btn {
+  background-color: #fff;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  line-height: 30px;
+  font-size: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+  outline: none;
+  border-radius: 3px;
+  text-align: center;
+  transition: all 0.2s linear;
+}
+
+.common-btn:hover {
+  background-color: rgb(240, 238, 238);
+  transition: all 0.2s linear;
+}
+
+.common-btn:active {
+  background-color: rgb(221, 221, 221);
+}
