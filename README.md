@@ -1,3 +1,7 @@
+This project is a demo by react, which provides a WeiBo-like UI (It‘s just an exercise).
+[online demo](https://dacy06.github.io/SocialCard-learn-react/)
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
