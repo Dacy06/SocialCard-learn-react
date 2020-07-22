@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SocialCard-learn-react/static/css/main.357f0058.chunk.css",
+    "main.js": "/SocialCard-learn-react/static/js/main.b299082d.chunk.js",
+    "main.js.map": "/SocialCard-learn-react/static/js/main.b299082d.chunk.js.map",
+    "runtime-main.js": "/SocialCard-learn-react/static/js/runtime-main.c4daf6a5.js",
+    "runtime-main.js.map": "/SocialCard-learn-react/static/js/runtime-main.c4daf6a5.js.map",
+    "static/js/2.22f2817e.chunk.js": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js",
+    "static/js/2.22f2817e.chunk.js.map": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js.map",
+    "index.html": "/SocialCard-learn-react/index.html",
+    "precache-manifest.3a11ad96298c0c9e4ef1f796b4b69163.js": "/SocialCard-learn-react/precache-manifest.3a11ad96298c0c9e4ef1f796b4b69163.js",
+    "service-worker.js": "/SocialCard-learn-react/service-worker.js",
+    "static/css/main.357f0058.chunk.css.map": "/SocialCard-learn-react/static/css/main.357f0058.chunk.css.map",
+    "static/js/2.22f2817e.chunk.js.LICENSE.txt": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js.LICENSE.txt",
+    "static/media/1249256.png": "/SocialCard-learn-react/static/media/1249256.b7d02eb8.png",
+    "static/media/forward.png": "/SocialCard-learn-react/static/media/forward.1d7d74d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4daf6a5.js",
+    "static/js/2.22f2817e.chunk.js",
+    "static/css/main.357f0058.chunk.css",
+    "static/js/main.b299082d.chunk.js"
+  ]
+}
