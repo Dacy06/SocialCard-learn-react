@@ -1,4 +1,4 @@
-This project is a demo by react, which provides a WeiBo-like UI (It‘s just an exercise).
+This project is a demo by react, which provides a WeiBo-like UI (It‘s just an exercise).<br/>
 [online demo](https://dacy06.github.io/SocialCard-learn-react/)
 
 <hr>
