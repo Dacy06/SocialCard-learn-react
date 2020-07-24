@@ -27,11 +27,29 @@ const Comment = ({handleComment,btnText1, btnText2}) => {
     }
   }
 
+  const handleCommentChange = (val) => {
+    setComment( val );
+  }
+
+  return (
+    <CommentView
+      handleCommentChange={handleCommentChange}
+      submitComment={submitComment}
+      cancelComment={cancelComment}
+      btnText1={btnText1}
+      btnText2={btnText2}
+      />
+  );
+}
+
+
+const CommentView = ({handleCommentChange, submitComment, cancelComment, btnText1, btnText2}) => {
+
   return (
     <div className="comment-area" >
-      <textarea className="input-area" placeholder="please input..." value={comment}
+      <textarea className="input-area" placeholder="please input..."
         onChange={(e) => {
-          setComment( e.target.value );
+          handleCommentChange(e.target.value);
         }} />
       <div className="submit-btn-area">
         <button className="comment-btn common-btn" onClick={submitComment}>{btnText1}</button>
@@ -39,7 +57,6 @@ const Comment = ({handleComment,btnText1, btnText2}) => {
       </div>
     </div>
   );
-  
 }
 
 export default Comment;
