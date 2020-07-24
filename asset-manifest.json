@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SocialCard-learn-react/static/css/main.357f0058.chunk.css",
-    "main.js": "/SocialCard-learn-react/static/js/main.b299082d.chunk.js",
-    "main.js.map": "/SocialCard-learn-react/static/js/main.b299082d.chunk.js.map",
+    "main.js": "/SocialCard-learn-react/static/js/main.02782dec.chunk.js",
+    "main.js.map": "/SocialCard-learn-react/static/js/main.02782dec.chunk.js.map",
     "runtime-main.js": "/SocialCard-learn-react/static/js/runtime-main.c4daf6a5.js",
     "runtime-main.js.map": "/SocialCard-learn-react/static/js/runtime-main.c4daf6a5.js.map",
     "static/js/2.22f2817e.chunk.js": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js",
     "static/js/2.22f2817e.chunk.js.map": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js.map",
     "index.html": "/SocialCard-learn-react/index.html",
-    "precache-manifest.3a11ad96298c0c9e4ef1f796b4b69163.js": "/SocialCard-learn-react/precache-manifest.3a11ad96298c0c9e4ef1f796b4b69163.js",
+    "precache-manifest.73e196c3b6c04fcc65e7bad074ceb7d4.js": "/SocialCard-learn-react/precache-manifest.73e196c3b6c04fcc65e7bad074ceb7d4.js",
     "service-worker.js": "/SocialCard-learn-react/service-worker.js",
     "static/css/main.357f0058.chunk.css.map": "/SocialCard-learn-react/static/css/main.357f0058.chunk.css.map",
     "static/js/2.22f2817e.chunk.js.LICENSE.txt": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c4daf6a5.js",
     "static/js/2.22f2817e.chunk.js",
     "static/css/main.357f0058.chunk.css",
-    "static/js/main.b299082d.chunk.js"
+    "static/js/main.02782dec.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SocialCard-learn-react/precache-manifest.3a11ad96298c0c9e4ef1f796b4b69163.js"
+  "/SocialCard-learn-react/precache-manifest.73e196c3b6c04fcc65e7bad074ceb7d4.js"
 );
 
 self.addEventListener('message', (event) => {

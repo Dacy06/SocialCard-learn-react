@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c3d889c6c11a907936acd8253c3e9bb",
+    "revision": "e2fbf7f199a6b751f12ffbb31a9b0b3a",
     "url": "/SocialCard-learn-react/index.html"
   },
   {
-    "revision": "9fb44dedba79c4c963cf",
+    "revision": "972676a08d47c88f607f",
     "url": "/SocialCard-learn-react/static/css/main.357f0058.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocialCard-learn-react/static/js/2.22f2817e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fb44dedba79c4c963cf",
-    "url": "/SocialCard-learn-react/static/js/main.b299082d.chunk.js"
+    "revision": "972676a08d47c88f607f",
+    "url": "/SocialCard-learn-react/static/js/main.02782dec.chunk.js"
   },
   {
     "revision": "167ad6307a9d76a72a3c",
